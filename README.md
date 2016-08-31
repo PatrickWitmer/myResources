@@ -1,4 +1,4 @@
-# Code and Dev and Design Resourses
+# Code && Dev && Design Resourses
 
 #### Cool things and links for reference and inspirado.
 
