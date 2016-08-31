@@ -7,6 +7,7 @@ Motion, for the web.
 
 Learning Resources  
 [Dungeons and Developers](http://www.dungeonsanddevelopers.com/)
+[Tana Rascia Tutorials](https://www.taniarascia.com/)  
 
 Javascript Frameworks  
 [ember js](http://emberjs.com)  
@@ -16,4 +17,4 @@ Dev() & Design+ News
 [Coding Horror](http://blog.codinghorror.com)  
 [Hacker News](https://news.ycombinator.com/)
 [Designer News](https://www.designernews.co/)  
-[Tana Rascia Tutorials](https://www.taniarascia.com/)
+
