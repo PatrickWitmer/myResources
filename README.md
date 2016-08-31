@@ -10,6 +10,8 @@ Motion, for the web.
 Learning Resources  
 [Dungeons and Developers](http://www.dungeonsanddevelopers.com/)  
 [Tana Rascia Tutorials](https://www.taniarascia.com/)  
+✌
+[WTF, HTML and CSS?](http://wtfhtmlcss.com/)
 
 Javascript Frameworks  
 [ember js](http://emberjs.com)  
