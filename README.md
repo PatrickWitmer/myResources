@@ -1,5 +1,7 @@
 # Code && Dev && Design Resourses
 
+(Ongoing list)
+
 #### Cool things and links for reference and inspirado.
 
 Motion, for the web.  
