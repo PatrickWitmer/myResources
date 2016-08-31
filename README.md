@@ -5,7 +5,7 @@
 Motion, for the web.  
 [mojos](http://mojs.io/)
 
-Learning Resources
+Learning Resources  
 [Dungeons and Developers](http://www.dungeonsanddevelopers.com/)
 
 Javascript Frameworks  
