@@ -7,4 +7,8 @@ Motion, for the web.
 
 [Dungeons and Developers](http://www.dungeonsanddevelopers.com/)
 
+Javascript Frameworks
+[ember js](http://emberjs.com)
+
+[ember cli](https://ember-cli.com/)
 
