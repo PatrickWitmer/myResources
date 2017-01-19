@@ -15,7 +15,7 @@ Learning Resources
 
 Javascript Frameworks  
 [ember js](http://emberjs.com)  
-[ember cli](https://ember-cli.com/)
+[ember cli](https://ember-cli.com/)  
 [Hexo blog](https://hexo.io/)
 
 Dev() & Design+ News  
