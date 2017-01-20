@@ -23,3 +23,5 @@ Dev() & Design+ News
 [Hacker News](https://news.ycombinator.com/)
 [Designer News](https://www.designernews.co/)  
 
+Inspiration  
+[Dan Mumford](http://www.dan-mumford.com/)  
