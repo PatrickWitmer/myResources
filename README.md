@@ -25,3 +25,4 @@ Dev() & Design+ News
 
 Inspiration  
 [Dan Mumford](http://www.dan-mumford.com/)  
+[Frank Frazetta](http://www.frazettagirls.com/)
