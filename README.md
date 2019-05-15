@@ -7,7 +7,7 @@
 ##### 2019 Time
 [Learn Redux](https://learnredux.com/)  
 [Javascript30](https://javascript30.com/)  
-[CLI Power User]https://commandlinepoweruser.com/  
+[CLI Power User](https://commandlinepoweruser.com/)  
 
 
 Motion, for the web.  
