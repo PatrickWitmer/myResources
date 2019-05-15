@@ -1,4 +1,4 @@
-# Code && Dev && Design Resourses
+# Dev && Design Resourses
 
 (Ongoing list)
 
