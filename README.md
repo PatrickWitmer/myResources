@@ -6,7 +6,7 @@
 
 ##### 2019 Time
 [Learn Redux](https://learnredux.com/)  
-[Javascript30](https://javascript30.com/)  
+[Javascript30](https://javascript30.com/) [Course](https://courses.wesbos.com/account)  
 [CLI Power User](https://commandlinepoweruser.com/)  
 
 
