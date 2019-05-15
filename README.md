@@ -26,7 +26,7 @@ Javascript Frameworks
 
 Dev() & Design+ News  
 [Coding Horror](http://blog.codinghorror.com)  
-[Hacker News](https://news.ycombinator.com/)
+[Hacker News](https://news.ycombinator.com/)  
 [Designer News](https://www.designernews.co/)  
 
 Inspiration  
