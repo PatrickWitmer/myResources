@@ -4,6 +4,12 @@
 
 #### Cool things and links for reference and inspirado.
 
+#####2019 Time
+[Learn Redux](https://learnredux.com/)
+[Javascript30](https://javascript30.com/)
+[CLI Power User]https://commandlinepoweruser.com/
+
+
 Motion, for the web.  
 [mojos](http://mojs.io/)
 
