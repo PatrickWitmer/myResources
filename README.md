@@ -27,7 +27,7 @@ Javascript Frameworks
 [ember cli](https://ember-cli.com/)  
 [Hexo blog](https://hexo.io/)
 
-Animation Library
+Animation Library  
 [Kinetic Typography Page Transition ](https://tympanus.net/codrops/2021/09/29/kinetic-typography-page-transition/)
 
 Dev() & Design+ News  
