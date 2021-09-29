@@ -12,6 +12,9 @@
 
 Motion, for the web.  
 
+**OS Exploration**
+popOS
+[Zorin](https://zorin.com/os/)
 
 Learning Resources  
 [Dungeons and Developers](http://www.dungeonsanddevelopers.com/)  
@@ -23,6 +26,9 @@ Javascript Frameworks
 [ember js](http://emberjs.com)  
 [ember cli](https://ember-cli.com/)  
 [Hexo blog](https://hexo.io/)
+
+Animation Library
+[Kinetic Typography Page Transition ](https://tympanus.net/codrops/2021/09/29/kinetic-typography-page-transition/)
 
 Dev() & Design+ News  
 [Coding Horror](http://blog.codinghorror.com)  
