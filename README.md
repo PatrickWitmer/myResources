@@ -12,8 +12,8 @@
 
 Motion, for the web.  
 
-**OS Exploration**
-popOS
+**OS Exploration**  
+popOS  
 [Zorin](https://zorin.com/os/)
 
 Learning Resources  
